@@ -2,3 +2,5 @@
 
 # Error 101
 - This error is thrown once the bot is unable to find the channel or data linked with the channel.
+- How to Fix
+- Make sure the channel or channel id you provided is correct.
